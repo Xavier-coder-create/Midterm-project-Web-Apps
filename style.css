@@ -1,0 +1,29 @@
+.lesson{
+    Background-color: #6dfef7;
+}
+.index{
+    Background-color: #80fe6d;
+}
+.practice{
+    Background-color: #a76dfe;
+}
+.calculator{
+    Background-color: #fbb264;
+}
+/*boxs*/
+.navbar{
+    
+    border: 2px solid black;
+    padding: 10px;
+    background-color: rgba(189, 230, 173, 1);
+}
+.lesson-content{
+    border: 2px solid black;
+    padding: 10px;
+    background-color: lightgreen;
+}
+.home-content{
+    border: 2px solid black;
+    padding: 10px;
+    background-color: rgb(255, 224, 224);
+}
